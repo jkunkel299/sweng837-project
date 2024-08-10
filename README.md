@@ -1,8 +1,11 @@
 # SWENG837 Software System Design Course Project
 
-Object-oriented software system design for Course Scheduling System<br>
+Object-oriented software system design for Course Scheduling System<br><br>
 Jessica Kunkel<br>
-SU II 2024<br>
+SU II 2024<br><br>
+
+Presentation Video: https://youtu.be/0l93PW9V4O4<br><br>
+
 Explanations for UML Diagrams and Design Components
 
 ## Use Case Diagrams
