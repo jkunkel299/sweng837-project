@@ -1,10 +1,9 @@
-![image](https://github.com/user-attachments/assets/fd65c42c-4133-47eb-aa8e-e485b8fbfb4c)# SWENG837 Software System Design Course Project
+# SWENG837 Software System Design Course Project
 
 Object-oriented software system design for Course Scheduling System<br>
 Jessica Kunkel<br>
 SU II 2024<br>
-
-# Explanations for UML Diagrams and Design Components
+Explanations for UML Diagrams and Design Components
 
 ## Use Case Diagrams
 
